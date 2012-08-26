@@ -7,7 +7,7 @@
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>My First Module</name>
-	<description>Parent project for My First Module</description>
+	<description>Parent project fora test module named My First Module</description>
 
 	<url>http://wiki.openmrs.org/docs/Basic+Module</url>
 
